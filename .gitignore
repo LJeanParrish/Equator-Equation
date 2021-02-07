@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-apy_key.py
+
+# Ignore files related to API keys
+vacationpy/api_key.py
+weatherpy/api_keys.py
