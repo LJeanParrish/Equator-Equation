@@ -51,7 +51,7 @@ The next part of this project was to identify ideal vacation locations using jup
 
 I created a heatmap which displayed the humidity for the cities identified in Part I of this project.  
 
-  ![Heatmap_Only](images/Heatmap_Only.png)
+  ![Heatmap_Only.png](images/Heatmap_Only.png)
 
 I then narrowed down my data frame to ideal weather conditions:
 
@@ -63,9 +63,9 @@ I then narrowed down my data frame to ideal weather conditions:
 
 * Using the Google Places API I found the first hotel for each city located within 5000 meters of the coordinates. The hotels were then overlayed on the humidity heatmap.  
 
-  ![Heatmap_Hotel(images/Heatmap_Hotel.png)
+  ![Heatmap_Hotel.png](images/Heatmap_Hotel.png)
 
 
 ### Contact
 Lauren Parrish 
-# ljeanparrish@gmail.com
+ljeanparrish@gmail.com
