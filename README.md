@@ -45,6 +45,7 @@ I then performed a weather check on each city using a series of successive API C
 I completed this assessment by noting observable trends in the weather data.
 
 
+
 ### Part II - VacationPy
 
 The next part of this project was to identify ideal vacation locations using jupyter-gmaps and the Google Places API.
@@ -60,6 +61,8 @@ I then narrowed down my data frame to ideal weather conditions:
   * Zero cloudiness.
 
 * Using the Google Places API I found the first hotel for each city located within 5000 meters of the coordinates. The hotels were then overlayed on the humidity heatmap.  
+
+![Heatmap_Hotel.png](vacationpy/Heatmap_Hotel.png)
 
 
 ### Contact
