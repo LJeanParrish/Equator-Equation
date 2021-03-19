@@ -62,7 +62,7 @@ I then narrowed down my data frame to ideal weather conditions:
 
 * Using the Google Places API I found the first hotel for each city located within 5000 meters of the coordinates. The hotels were then overlayed on the humidity heatmap.  
 
-![Heatmap_Hotel](Images/Heatmap_Hotel.png)
+![Heatmap](Images/Heatmap.png)
 
 
 ### Contact
